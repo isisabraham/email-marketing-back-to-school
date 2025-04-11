@@ -17,7 +17,7 @@
     <td align="center"><a href="https://www.bagaggio.com.br/nossas-lojas"><img src="https://github.com/isisabraham/email-marketing-back-to-school/tree/main/img/gif1.gif" alt="" width="600" height="1025" /></a></td>
     </tr>
     <tr>
-    <td align="center"><a href="https://www.bagaggio.com.br/nossas-lojas"><img src="https://github.com/isisabraham/email-marketing-back-to-school/tree/main/img/img2.jpg" alt="" width="600" height="1678" /></a></td>
+    <td align="center"><a href="https://www.bagaggio.com.br/nossas-lojas"><img src="https://github.com/isisabraham/email-marketing-back-to-school/tree/main/img/img2.png" alt="" width="600" height="1678" /></a></td>
     </tr>
     </tbody>
     </table>
