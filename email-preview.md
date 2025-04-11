@@ -14,7 +14,7 @@
     <table width="599" border="0" cellspacing="0" cellpadding="0" align="center">
     <tbody>
     <tr>
-    <td align="center"><a href="https://www.bagaggio.com.br/nossas-lojas"><img src="img/gif1.gif" alt="" width="600" height="1025" /></a></td>
+    <td align="center"><a href="https://www.bagaggio.com.br/nossas-lojas"><img src="https://github.com/isisabraham/email-marketing-back-to-school/raw/main/img/gif1.gif" alt="" width="600" height="1025" /></a></td>
     </tr>
     <tr>
     <td align="center"><a href="https://www.bagaggio.com.br/nossas-lojas"><img src="img/img2.png" alt="" width="600" height="1678" /></a></td>
